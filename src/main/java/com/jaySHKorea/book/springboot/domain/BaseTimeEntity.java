@@ -20,3 +20,6 @@ public abstract class BaseTimeEntity {
     @LastModifiedDate // 값 변경시 자동저장
     private LocalDateTime modifiedDate;
 }
+
+
+
